@@ -583,7 +583,7 @@ module.exports = (templateData) => {
 ![screenshot of badge](https://img.shields.io/badge/license-${
     data.license
   }-blue.svg)
-# ${data.projectTitle}
+# ${data.projectName}
 ## Description
         
 ${data.description}
