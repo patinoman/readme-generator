@@ -3,7 +3,7 @@
 # Password Generator
 ## Description
         
-An application that generates a random password based on user-selected criteria
+An application that generates a random password based on user-selected criteria.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)

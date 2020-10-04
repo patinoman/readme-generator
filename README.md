@@ -24,6 +24,10 @@ This app is a README generator that creates a README file based on user input fr
 
 Once downloaded, open the code on VSCode and open Terminal on the computer. On Terminal, invoke the app by using the following command: node index.js, and answer all the questions. The generated README will be in the "dist" folder in the Explorer.
 
+Walkthrough (Video): [https://drive.google.com/file/d/1xE4xZ6eg2S4UpLdzyOiTQrwBtGjpcpo-/view?usp=sharing](https://drive.google.com/file/d/1xE4xZ6eg2S4UpLdzyOiTQrwBtGjpcpo-/view?usp=sharing)
+
+![screenshot of generated README](./images/password-generator-readme.PNG?raw=true)
+
 ## License
 
 MIT License
