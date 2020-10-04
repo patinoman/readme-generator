@@ -1,9 +1,9 @@
 
 ![screenshot of badge](https://img.shields.io/badge/license-MIT-blue.svg)
-# k
+# Password Generator
 ## Description
         
-k
+An application that generates a random password based on user-selected criteria
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,9 +12,9 @@ k
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-k
+Download the zip file from https://github.com/patinoman/password-generator and open it on VSCode
 ## Usage
-k
+Select the password criteria and generate a random password based on that criteria.
 ## License
 
 MIT License
@@ -35,9 +35,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Contributing
-k
+Check it out and let me know what I could improve on.
 ## Tests
-k
+Try all the criteria.
 ## Questions
-Want to see more projects ? Check out my github at [https://github.com/k].
-Please email me at k for additional questions.
+Want to see more projects ? Check out my github at [https://github.com/patinoman].
+Please email me at patino.hector@gmail.com for additional questions.
