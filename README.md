@@ -47,7 +47,9 @@ SOFTWARE.
 ## Credits
 
 https://www.npmjs.com/package/inquirer
+
 https://docs.npmjs.com/files/package.json
+
 https://nodejs.org/docs/latest-v12.x/api/modules.html
 
 Starter code from:
